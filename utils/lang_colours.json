@@ -1,0 +1,19 @@
+{
+  "Amazon Web Services": "#ff9a00",
+  "CSS": "#214ce5",
+  "Git": "#63583d",
+  "Go": "#00aed8",
+  "HTML": "#fc4a0b",
+  "JavaScript": "#f7df16",
+  "Next.js": "#000000",
+  "Node.js": "#3c873a",
+  "PostgreSQL": "#31648c",
+  "React.js": "#3dcaf7",
+  "Redis": "#c6302b",
+  "Shell": "#443245",
+  "Svelte": "#ff3e00",
+  "Tailwind CSS": "#38bdf8",
+  "TypeScript": "#2f74c0",
+  "WebAssembly": "#654ef0",
+  "WebSocket": "#e59d2e"
+}

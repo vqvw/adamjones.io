@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Runic Markup Language",
+    "description": "A markup language used for writing general purpose documents, with accompanying tool-suite including a parser, transpiler, web IDE and command-line tool.",
+    "image": "runic.png",
+    "langs": ["Go", "WebAssembly", "JavaScript", "HTML", "React.js", "Shell"],
+    "repo": "runic"
+  },
+  {
+    "title": "PDFb",
+    "description": "A library providing a number of methods for programatically creating extensible and customisable PDF documents in Go.",
+    "image": "pdfb.png",
+    "langs": ["Go", "Shell"],
+    "repo": "pdfb"
+  },
+  {
+    "title": "PicGo",
+    "description": "An multiplayer pictionary game written in Go, with avatar builder, usernames, live chat, and a super smooth drawing experience.",
+    "image": "picgo.png",
+    "langs": ["Go", "JavaScript", "WebSocket"],
+    "repo": "PicGo"
+  },
+  {
+    "title": "adamjones.io",
+    "description": "This website!",
+    "image": "adamjones.png",
+    "langs": ["Next.js", "React.js", "JavaScript", "Tailwind CSS"],
+    "repo": "adamjones.io"
+  },
+  {
+    "title": "SVG Music Visualiser",
+    "description": "An SVG scene of a mountain range at sunset that moves with the frequencies of the selected audio track controlled by JavaScript.",
+    "image": "svg-music-visualiser.png",
+    "langs": ["HTML", "CSS", "JavaScript"],
+    "repo": "svg-music-visualiser"
+  },
+  {
+    "title": "Go Dojo",
+    "description": "A guide to programming in Go, suitable for beginners, adept programmers, and anyone interested in the Go language.",
+    "image": "go-dojo.png",
+    "langs": ["Go", "HTML", "CSS"],
+    "repo": "go-dojo"
+  },
+  {
+    "title": "Anirak IDE Theme",
+    "description": "A dark theme for VS Code and popular terminal emulators with a modern and minimalist blue-green appearance.",
+    "image": "anirak.png",
+    "langs": ["Go", "JavaScript"],
+    "repo": "anirak"
+  },
+  {
+    "title": "VPS Guide",
+    "description": "A document designed to guide the reader through the process of setting up a secure Virtual Private Server.",
+    "image": "vps-guide.png",
+    "langs": ["Shell"],
+    "repo": "vps-guide"
+  },
+  {
+    "title": "Lava Lamp Landing Page",
+    "description": "A full-screen lava lamp effect created with React.js and Tailwind CSS.",
+    "image": "lava.png",
+    "langs": ["React.js", "Tailwind CSS", "JavaScript"],
+    "repo": "lava-lamp-landing-page"
+  },
+  {
+    "title": "HTML Desktop Concept",
+    "description": "An interactive desktop built with HTML bringing to life the idea for a modern desktop environment.",
+    "image": "desktop.png",
+    "langs": ["HTML", "CSS", "JavaScript"],
+    "repo": "desktop-concept"
+  }
+]

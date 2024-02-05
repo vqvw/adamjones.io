@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply transition;
+}
+
+html {
+  @apply scroll-smooth;
+}
+
+body {
+  @apply relative bg-black min-h-screen min-w-full overflow-x-hidden;
+}
+
+body::before {
+  content: "";
+  animation: fade-in 2000ms ease-out forwards;
+  filter: blur(100px);
+  @apply top-0 left-0 opacity-0 h-screen w-screen absolute bg-gradient-to-tr from-transparent to-slate-900;
+}
+
+@keyframes fade-in {
+  to {
+    opacity: 1;
+  }
+}
